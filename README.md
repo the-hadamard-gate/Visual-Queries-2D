@@ -62,3 +62,19 @@ Evaluated against a fixed 203-query subset of the Ego4D validation data. Our opt
 ```bash
 git clone [https://github.com/your-org/ego4d-vq2d-samurai.git](https://github.com/your-org/ego4d-vq2d-samurai.git)
 cd ego4d-vq2d-samurai
+```
+
+## Acknowledgements
+
+Special thanks to our project mentor, **Mrs. Jyoti Nigam**, for her continuous guidance and valuable insights, and to our Deep Learning course instructor, **Aditya Nigam**, for providing the opportunity to explore this research. 
+
+This project was collaboratively developed by the dedicated members of **Group 25**:
+
+* Dishant Jha (B24120)
+* Utkarsh Sahu (B24172)
+* Divyansh Jindal (B24121)
+* Garv Jain (B24124)
+* Divyansh Negi (B24122)
+* Shivam Soni (B24159)
+* Nirupam (B24143)
+* Mudit Patial (B24141)
